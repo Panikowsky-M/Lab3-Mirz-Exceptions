@@ -1,0 +1,10 @@
+D:\Документы\Лабораторные-работы-проц-прог\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Документы\Лабораторные-работы-проц-прог\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Документы\Лабораторные-работы-проц-прог\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Документы\Лабораторные-работы-проц-прог\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Документы\Лабораторные-работы-проц-прог\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\Документы\Лабораторные-работы-проц-прог\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Документы\Лабораторные-работы-проц-прог\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Документы\Лабораторные-работы-проц-прог\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Документы\Лабораторные-работы-проц-прог\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Документы\Лабораторные-работы-проц-прог\Lab3\Lab3\obj\Debug\Lab3.pdb
